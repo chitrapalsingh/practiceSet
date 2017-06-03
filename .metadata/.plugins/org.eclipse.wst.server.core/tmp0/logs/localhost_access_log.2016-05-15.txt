@@ -1,0 +1,4 @@
+127.0.0.1 - - [15/May/2016:10:03:00 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [15/May/2016:10:03:35 +0530] "GET /messenger/ HTTP/1.1" 200 239
+127.0.0.1 - - [15/May/2016:10:04:03 +0530] "GET /messenger/webapi/myresource HTTP/1.1" 200 7
+127.0.0.1 - - [15/May/2016:10:22:45 +0530] "GET /messenger/webapi/messages HTTP/1.1" 404 967

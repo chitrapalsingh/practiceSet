@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [18/May/2016:00:09:41 +0530] "GET /messenger/webapi/messages/1 HTTP/1.1" 200 184
+0:0:0:0:0:0:0:1 - - [18/May/2016:00:09:48 +0530] "GET /messenger/webapi/messages/2 HTTP/1.1" 200 187
+0:0:0:0:0:0:0:1 - - [18/May/2016:00:09:52 +0530] "GET /messenger/webapi/messages/3 HTTP/1.1" 204 -
+0:0:0:0:0:0:0:1 - - [18/May/2016:00:15:49 +0530] "GET /messenger/webapi/messages/3 HTTP/1.1" 204 -
+0:0:0:0:0:0:0:1 - - [18/May/2016:00:15:57 +0530] "GET /messenger/webapi/messages HTTP/1.1" 200 188
+0:0:0:0:0:0:0:1 - - [18/May/2016:00:16:13 +0530] "GET /messenger/webapi/messages/1 HTTP/1.1" 200 91
+0:0:0:0:0:0:0:1 - - [18/May/2016:10:46:34 +0530] "GET /messenger/webapi/messages HTTP/1.1" 200 188
+127.0.0.1 - - [18/May/2016:23:53:03 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [18/May/2016:23:53:04 +0530] "GET /messenger/WEB-INF/classes/org/chitrapal/chauhan/messenger/resources/MessageResource.java HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [18/May/2016:23:53:11 +0530] "GET /messenger/webapi/messages/1 HTTP/1.1" 200 91
+0:0:0:0:0:0:0:1 - - [18/May/2016:23:53:46 +0530] "POST /messenger/webapi/messages HTTP/1.1" 405 1013
+0:0:0:0:0:0:0:1 - - [18/May/2016:23:53:56 +0530] "POST /messenger/webapi/messages HTTP/1.1" 405 1013
+0:0:0:0:0:0:0:1 - - [18/May/2016:23:54:57 +0530] "POST /messenger/webapi/messages HTTP/1.1" 200 91
+0:0:0:0:0:0:0:1 - - [18/May/2016:23:55:07 +0530] "GET /messenger/webapi/messages/3 HTTP/1.1" 200 91
+0:0:0:0:0:0:0:1 - - [18/May/2016:23:56:22 +0530] "POST /messenger/webapi/messages HTTP/1.1" 200 94
